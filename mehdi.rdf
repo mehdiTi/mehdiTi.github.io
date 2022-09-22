@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" encoding="UTF-8" href="./rdf2html.xsl" version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dc="http://purl.org/dc/terms/"
+	xmlns:lang="http://purl.org/net/inkel/rdf/schemas/lang/1.1#">
+	
+  <foaf:PersonalProfileDocument rdf:about="">
+		<foaf:maker rdf:resource="#ET"/>
+		<foaf:primaryTopic rdf:resource="#ET"/>
+	</foaf:PersonalProfileDocument>
+
+	<foaf:Person rdf:ID="ET">
+		
+		<foaf:name>EL MEHDI TIABI</foaf:name>
+		<foaf:title>M.</foaf:title>
+		<foaf:givenname>EL MEHDI</foaf:givenname>
+		<foaf:family_name>TIABI</foaf:family_name>
+		<foaf:nick>med</foaf:nick>
+		<foaf:mbox rdf:resource="mailto:elmehditiabi@gmail.com"/>
+		<foaf:homepage rdf:resource="" dc:title="Homepage El mehdi TIABI"/>
+		<foaf:weblog rdf:resource=""/>
+		<foaf:img rdf:resource=""/>
+		<foaf:gender>male</foaf:gender>
+		
+		<foaf:interest rdf:resource="http://dbpedia.org/resource/Symfony"/>
+		<foaf:interest rdf:resource="http://dbpedia.org/resource/IspCP"/>
+		<foaf:interest rdf:resource="http://dbpedia.org/resource/JQuery"/>
+		<foaf:interest rdf:resource="http://dbpedia.org/resource/PHP"/>
+		<foaf:interest rdf:resource="http://dbpedia.org/resource/Semantic_Web"/>
+		<foaf:interest rdf:resource="http://dbpedia.org/resource/Linked_Data"/>   
+	</foaf:Person>
+</rdf:RDF>
