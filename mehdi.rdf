@@ -24,10 +24,9 @@
 		<foaf:gender>male</foaf:gender>
 		
 		<foaf:interest rdf:resource="http://dbpedia.org/resource/Symfony"/>
-		<foaf:interest rdf:resource="http://dbpedia.org/resource/IspCP"/>
 		<foaf:interest rdf:resource="http://dbpedia.org/resource/JQuery"/>
 		<foaf:interest rdf:resource="http://dbpedia.org/resource/PHP"/>
-		<foaf:interest rdf:resource="http://dbpedia.org/resource/Semantic_Web"/>
-		<foaf:interest rdf:resource="http://dbpedia.org/resource/Linked_Data"/>   
+		<foaf:interest rdf:resource="http://dbpedia.org/resource/Salesforce"/>
+		<foaf:interest rdf:resource="http://dbpedia.org/resource/JAVA"/>   
 	</foaf:Person>
 </rdf:RDF>
